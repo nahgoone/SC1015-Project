@@ -1,4 +1,4 @@
-# SC1015-Project
+# 🥦Steam Store Games
 ![alt text](https://github.com/nahgoone/SC1015-Project/blob/main/Steam.png "Steam")
 ### FCSE Group 6 Members
 - [Ngo Zong Han](https://github.com/nahgoone)
