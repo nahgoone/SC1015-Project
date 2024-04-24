@@ -41,6 +41,23 @@
 **4. Machine Learning**
 
 **5. Learning Outcomes**
+Data Collection:
+- Gathering Data using JSON and Web APIs
+
+Data Cleaning: 
+- Handling multiple Data formats in excel
+- Processing different data using python
+
+Data Visualisation & Analysis:
+- Applying course knowledge
+- Learning new visualisation techniques
+
+Machine Learning: 
+1. Models:
+   - Clustering, Linear Regression, Gradient Boosting Regressor
+2. Classification:
+   - F1 Score, Accuracy
+
 
 **6. Conclusion**
 - Rather than trying to target a genre segment, developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross-platform, and popular via marketing and high perceived quality.
