@@ -30,7 +30,28 @@
 1. [Slides](https://github.com/nahgoone/SC1015-Project/blob/main/SC1015%20PPT%20Slides.pdf)
 
 
-# Summary of our project:
+## Summary of our project:
+
+## Key Takeaways: 
+Owners and Average Playtime: 
+- Games with a larger number of owners tend to have higher average playtimes. 
+
+**Overall Reviews and Average Playtime**: 
+- Games with more overall reviews, which can be indicative of popularity or player engagement, tend to have higher average playtimes. 
+- Positive reviews might encourage more players to try the game, leading to longer play sessions or more frequent play. Conversely, negative reviews might deter players, resulting in shorter playtimes. 
+
+**Price and Average Playtime**: 
+- The relationship between price and average playtime can vary. 
+- Generally, lower-priced games may attract more players due to affordability, potentially resulting in longer playtimes.  
+- On the other hand, higher-priced games may have dedicated fan bases or offer premium content, leading to longer play sessions despite the higher cost. 
+- Players may perceive higher-priced games as having higher value, motivating them to spend more time playing to justify the investment.
+
+**Diverse Player Preferences**: 
+- Video game genres cater to a wide range of player preferences and gaming experiences. 
+- Some players may prefer short, intense sessions offered by action-packed games, while others may enjoy the immersive storytelling of role-playing games (RPGs) that lead to longer playtimes. 
+- The diversity in player preferences leads to varying average playtimes across different genres, resulting in a weaker correlation between genre and playtime.
+
+
 [Data Collection](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20Data%20Collection.ipynb)
 [Steam Spy Cleaning](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20Spy%20Cleaning.ipynb)
 [Steam App Cleaning](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20App%20Cleaning.ipynb)
