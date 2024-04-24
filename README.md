@@ -33,10 +33,15 @@
 ## Summary of our project:
 
 **1. Data Collection**
+
 **2. Data Cleaning**
+
 **3. EDA**
+
 **4. Machine Learning**
+
 **5. Learning Outcomes**
+
 **6. Conclusion**
 - Rather than trying to target a genre segment, developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross-platform, and popular via marketing and high perceived quality.
 - Future works: Analyze various player demographics and preferences and make games catered to their targetted audience. 
@@ -60,13 +65,12 @@
 - Some players may prefer short, intense sessions offered by action-packed games, while others may enjoy the immersive storytelling of role-playing games (RPGs) that lead to longer playtimes. 
 - The diversity in player preferences leads to varying average playtimes across different genres, resulting in a weaker correlation between genre and playtime.
 
-
-[Data Collection](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20Data%20Collection.ipynb)
-[Steam Spy Cleaning](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20Spy%20Cleaning.ipynb)
-[Steam App Cleaning](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20App%20Cleaning.ipynb)
-[Steam EDA](https://github.com/nahgoone/SC1015-Project/blob/main/Steam%20EDA.ipynb)
-[Classification](https://github.com/nahgoone/SC1015-Project/blob/main/Classification.ipynb)
-[Binary Classification](https://github.com/nahgoone/SC1015-Project/blob/main/Binary%20Classification.ipynb)
-[Hierarchal Clustering](https://github.com/nahgoone/SC1015-Project/blob/main/Hierarchal%20Clustering.ipynb)
-[Linear Regression](https://github.com/nahgoone/SC1015-Project/blob/main/Linear%20Regression.ipynb)
-[Slides](https://github.com/nahgoone/SC1015-Project/blob/main/SC1015%20PPT%20Slides.pdf)
+# Contributions:
+1. **Data Collection:** Zong Han
+2. **Data Cleaning and Preprocessing:** Rochelle
+3. **EDA and Visualisation:** Zong Han & Rochelle
+4. **Binary Classification, Hierarchical Clustering, Linear Regression:** Rochelle
+5. **OHE Classification:** Zong Han
+6. **Slides:** Zong Han & Rochelle
+7. **GitHub:** Zong Han
+# References
