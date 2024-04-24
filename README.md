@@ -41,7 +41,23 @@
 4. Combining and exporting datasets
 
 **3. EDA**
-- 
+**Description of the Steam Dataset:**
+> appid: Unique ID for each game <br>
+> name: Name of each game <br>
+> release_date: Total games released, releases by year, highest daily releases <br>
+> english: Indicates (0 or 1) whether the game supports English <br>
+> developer: Developers that released the game <br>
+> publisher: Publishers that released game <br>
+> platforms: Operating systems the game can be played on <br>
+> categories: Categories of the games set by Steam <br>
+> genres: Most popular genres <br>
+> steamspy_tags: The top 3 most tags Steam users associate the game with <br>
+> positive_ratings: Number of positive reviews by Steam users <br>
+> negative_ratings: Number of negative reviews by Steam users <br>
+> average_playtime: Average playtime since March 2009 in minutes. <br>
+> median_playtime: Median playtime since March 2009 in minutes. <br>
+> owners: Total number of owners per game, distribution range of game owners <br>
+> price: Price of the game in SGD <br>
 
 **4. Machine Learning**
 **4.1 Regression:**
