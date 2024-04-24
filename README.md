@@ -58,7 +58,38 @@
 > `average_playtime`: Average playtime since March 2009 in minutes. <br>
 > `median_playtime`: Median playtime since March 2009 in minutes. <br>
 > `owners`: Total number of owners per game, distribution range of game owners <br>
-> `price`: Price of the game in SGD <br>
+> `price`: Price of the game in SGD <be>
+
+2. Platforms
+- As expected games mostly support running on Windows Operating system followed Mac OS and Linux OS
+
+3. Categories
+- Top 5 most popular categories set by Steam are `Single-player`, `Family Sharing`, `Steam Achievements`, `Steam Cloud` and `Full controller support`
+
+4. Owners
+- The majority of games sold less than 20,000 copies
+- A small but noteworthy portion of games have sold over 2 million copies
+- Some games have immense popularity exceeding 100 million copies sold
+- The top 8 Games with the most copies sold are, Dota, Counter-Strike 2, Palworld,
+
+5. Genres
+- Top 5 most popular genres among all games are, Indie, Action, Casual, Adventure, Simulation
+- Massively Multiplayer seems to be the most own genre followed by RPG, Action and Strategy
+- Surprisingly although Indie is tagged in most games, it has a low average number of users
+
+6. Release Dates
+- Increasing trend in number of games released since 2014
+- Majority if not all games released in 2014 and earlier have less than 20,000 copies sold
+- Comparing each year after 2014, there are more games with over 20,000 copies sold each year than games with less than 20,00 copies sold
+
+7. Categories
+- Top 5 Developers with most games: Choice of Games, Creobit, Laush Dimitriy Sergeevich, KOEI TECMO GAMES CO., LTD, Hosted Games
+- Top 5 Publishers with most games: Big Fish Games, 8floor, Conglomerate 5, Choice of Games, HH-Games
+
+8. Numeric
+- Top 5 Games with highest `positive_ratings`: Counter-Strike 2, Dota 2, PUBG: BATTLEGROUNDS, Terraria, Rainbow Six® Siege
+- Top 5 Games with the highest `negative_ratings`: Counter-Strike 2, PUBG: BATTLEGROUNDS, Dota 2, War Thunder Rainbow Six® Siege
+
 
 **4. Machine Learning**
 **4.1 Regression:**
