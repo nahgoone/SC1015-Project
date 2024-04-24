@@ -41,8 +41,9 @@
 4. Combining and exporting datasets
 
 **3. EDA**
+
 **Description of the Steam Dataset:**
-> appid: Unique ID for each game <br>
+> `appid`: Unique ID for each game <br>
 > name: Name of each game <br>
 > release_date: Total games released, releases by year, highest daily releases <br>
 > english: Indicates (0 or 1) whether the game supports English <br>
