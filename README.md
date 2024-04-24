@@ -32,10 +32,16 @@
 
 ## Summary of our project:
 **1. Data Collection**
+- Used JSON with 2 Web APIs (SteamSpy and Steam Web) to extract and store all data into [excel sheets](https://drive.google.com/drive/folders/1pe-xQLG2WaZTIf8NbjC5G2nqP5fd9vBy)
 
 **2. Data Cleaning**
+1. Identify NULL Values and Missing Data
+2. Removing duplicated and irrelevant columns
+3. Preprocessing of data
+4. Combining and exporting datasets
 
 **3. EDA**
+- 
 
 **4. Machine Learning**
 **4.1 Regression:**
