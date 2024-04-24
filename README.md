@@ -31,7 +31,6 @@
 
 
 ## Summary of our project:
-
 **1. Data Collection**
 
 **2. Data Cleaning**
@@ -41,18 +40,19 @@
 **4. Machine Learning**
 
 **5. Learning Outcomes**
-Data Collection:
+
+**Data Collection:**
 - Gathering Data using JSON and Web APIs
 
-Data Cleaning: 
+**Data Cleaning:**
 - Handling multiple Data formats in excel
 - Processing different data using python
 
-Data Visualisation & Analysis:
+**Data Visualisation & Analysis:**
 - Applying course knowledge
 - Learning new visualisation techniques
 
-Machine Learning: 
+**Machine Learning:**
 1. Models:
    - Clustering, Linear Regression, Gradient Boosting Regressor
 2. Classification:
@@ -90,4 +90,20 @@ Machine Learning:
 5. **OHE Classification:** Zong Han
 6. **Slides:** Zong Han & Rochelle
 7. **GitHub:** Zong Han
-# References
+
+# References:
+**APIs:**
+https://partner.steamgames.com/doc/webapi_overview
+https://steamspy.com/api.php
+https://steamspy.com/
+
+**Motivation:** 
+https://www.channelnewsasia.com/singapore/skull-and-bones-video-game-pirates-ubisoft-singapore-ps5-xbox-pc-4126386
+https://www.washingtonpost.com/video-games/esports/2020/01/28/2010s-were-banner-decade-big-money-tech-esports-reaped-rewards/
+https://www.statista.com/statistics/1330211/steam-peak-concurrent-players/
+
+**People:** 
+https://nik-davis.github.io/posts/2019/steam-data-collection/
+https://aldenyuan.medium.com/exploratory-data-analysis-on-steam-store-games-dataset-f4ff06da44eb
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d
+
