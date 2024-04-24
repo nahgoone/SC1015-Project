@@ -32,8 +32,17 @@
 
 ## Summary of our project:
 
+**1. Data Collection**
+**2. Data Cleaning**
+**3. EDA**
+**4. Machine Learning**
+**5. Learning Outcomes**
+**6. Conclusion**
+- Rather than trying to target a genre segment, developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross-platform, and popular via marketing and high perceived quality.
+- Future works: Analyze various player demographics and preferences and make games catered to their targetted audience. 
+
 ## Key Takeaways: 
-Owners and Average Playtime: 
+**Owners and Average Playtime:** 
 - Games with a larger number of owners tend to have higher average playtimes. 
 
 **Overall Reviews and Average Playtime**: 
