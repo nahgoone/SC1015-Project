@@ -109,7 +109,7 @@
 - Gathering Data using JSON and Web APIs
 
 **Data Cleaning:**
-- Handling multiple Data formats in excel
+- Handling multiple Data formats in Excel
 - Processing different data using python
 
 **Data Visualisation & Analysis:**
@@ -119,8 +119,13 @@
 **Machine Learning:**
 1. Models:
    - Clustering, Linear Regression, Gradient Boosting Regressor
-2. Classification:
+2. One Hot Encoding Classification:
    - F1 Score, Accuracy
+   - random forest classifier
+3. Binary Classification
+   - using random forest classifier
+   - learned to binarise categorical features
+   - using ROC cure (AUC-ROC) to access the performance of the model
 
 **6. Conclusion**
 - Rather than trying to target a genre segment, developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross-platform, and popular via marketing and high perceived quality.
