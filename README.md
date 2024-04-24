@@ -38,9 +38,19 @@
 **3. EDA**
 
 **4. Machine Learning**
+**4.1 Regression:**
+- Measured variables against average playtime
+- Gradient Boosting Regressor is important as it was used to improve the accuracy of the linear regression model. It can handle missing values and outliers in the data which lowers Variance and MSE. This leads to more stable and reliable predictions.
+- In summary, model 3 was the best.
+
+**4.2 Classification**
+- Learning how to do One Hot Encoding and Binary for Classification
+- Learning how to use different metrics to determine the best model to predict the success of a game
+  1. Out Of Box Score
+  2. F1 Score (Precision + Recall)
+  3. ROC and AUC
 
 **5. Learning Outcomes**
-
 **Data Collection:**
 - Gathering Data using JSON and Web APIs
 
@@ -57,7 +67,6 @@
    - Clustering, Linear Regression, Gradient Boosting Regressor
 2. Classification:
    - F1 Score, Accuracy
-
 
 **6. Conclusion**
 - Rather than trying to target a genre segment, developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross-platform, and popular via marketing and high perceived quality.
