@@ -93,17 +93,17 @@
 
 # References:
 **APIs:**
-https://partner.steamgames.com/doc/webapi_overview
-https://steamspy.com/api.php
-https://steamspy.com/
+- https://partner.steamgames.com/doc/webapi_overview
+- https://steamspy.com/api.php
+- https://steamspy.com/
 
 **Motivation:** 
-https://www.channelnewsasia.com/singapore/skull-and-bones-video-game-pirates-ubisoft-singapore-ps5-xbox-pc-4126386
-https://www.washingtonpost.com/video-games/esports/2020/01/28/2010s-were-banner-decade-big-money-tech-esports-reaped-rewards/
-https://www.statista.com/statistics/1330211/steam-peak-concurrent-players/
+- https://www.channelnewsasia.com/singapore/skull-and-bones-video-game-pirates-ubisoft-singapore-ps5-xbox-pc-4126386
+- https://www.washingtonpost.com/video-games/esports/2020/01/28/2010s-were-banner-decade-big-money-tech-esports-reaped-rewards/
+- https://www.statista.com/statistics/1330211/steam-peak-concurrent-players/
 
 **People:** 
-https://nik-davis.github.io/posts/2019/steam-data-collection/
-https://aldenyuan.medium.com/exploratory-data-analysis-on-steam-store-games-dataset-f4ff06da44eb
-https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d
+- https://nik-davis.github.io/posts/2019/steam-data-collection/
+- https://aldenyuan.medium.com/exploratory-data-analysis-on-steam-store-games-dataset-f4ff06da44eb
+- https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d
 
